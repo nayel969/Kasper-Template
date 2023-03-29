@@ -897,7 +897,7 @@ li.active_shuffle {
       Statistics Section 
 /*------------------------*/
 .stats {
-  background-image: url(/imgs/stats.webp);
+  background-image: url(../imgs/stats.webp);
   background-size: cover;
   background-position: bottom;
   padding-top: var(--padding-60);
