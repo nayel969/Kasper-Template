@@ -748,8 +748,9 @@ li.active_shuffle {
   background-color: rgb(0 0 0 / 40%);
 }
 
-.video > video {
+.video > img {
   width: 100%;
+  height: 500px;
   object-fit: cover;
 }
 
@@ -897,7 +898,7 @@ li.active_shuffle {
       Statistics Section 
 /*------------------------*/
 .stats {
-  background-image: url(/imgs/stats.webp);
+  background-image: url(../imgs/stats.webp);
   background-size: cover;
   background-position: bottom;
   padding-top: var(--padding-60);
